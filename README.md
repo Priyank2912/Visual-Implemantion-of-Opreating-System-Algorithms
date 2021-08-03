@@ -4,9 +4,6 @@
 
 #### A Repository of Operating System Virtual Lab having Process Scheduler, Page Replacement and Disk Scheduler
 
-## List of Developers
-
-![Developers](https://user-images.githubusercontent.com/71542496/115654795-80962700-a34f-11eb-8883-2b7db57b4d37.JPG)
 
 ## The Home Page of OS Virtual Lab 
 
