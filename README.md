@@ -20,7 +20,7 @@
 
 ## The Home Page of Disk Scheduler 
 
-![Disk Scheduler](https://user-images.githubusercontent.com/71542496/115655231-7d4f6b00-a350-11eb-8218-0284ca3f3b92.JPG
+![Disk Scheduler](https://user-images.githubusercontent.com/71542496/115655231-7d4f6b00-a350-11eb-8218-0284ca3f3b92.JPG)
 
 ### Please refer to the README.pdf to run the application.
 
