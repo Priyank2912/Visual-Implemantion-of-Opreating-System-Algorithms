@@ -20,11 +20,7 @@
 
 ## The Home Page of Disk Scheduler 
 
-![Disk Scheduler](https://user-images.githubusercontent.com/71542496/115655231-7d4f6b00-a350-11eb-8218-0284ca3f3b92.JPG)
-
-## The Home Page of Concurrency and Deadlock
-
-![Concurrency and Deadlock](https://user-images.githubusercontent.com/71542496/115654946-d074ee00-a34f-11eb-989a-c32e495a15cc.JPG)
+![Disk Scheduler](https://user-images.githubusercontent.com/71542496/115655231-7d4f6b00-a350-11eb-8218-0284ca3f3b92.JPG
 
 ### Please refer to the README.pdf to run the application.
 
